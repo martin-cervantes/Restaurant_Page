@@ -1,0 +1,35 @@
+{
+  "name": "restaurant_page",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "file-loader": "^6.0.0",
+    "lodash": "^4.17.19"
+  },
+  "devDependencies": {
+    "css-loader": "^4.2.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcervantes71/Restaurant_Page.git"
+  },
+  "keywords": [
+    "web-development",
+    "front-end",
+    "javascript",
+    "learning"
+  ],
+  "author": "Martin Cervantes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcervantes71/Restaurant_Page/issues"
+  },
+  "homepage": "https://github.com/mcervantes71/Restaurant_Page#readme"
+}
