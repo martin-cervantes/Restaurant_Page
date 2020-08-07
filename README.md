@@ -1,5 +1,6 @@
 # Restaurant Page
 
+This project is to continue practicing DOM manipulation by using only JavaScript to generate all website content and dynamically generate a simple restaurant page.
 
 ![screenshot](./Screenshot.png)
 
@@ -12,7 +13,7 @@
 
 ## :mag: Live Demo
 
-[Live Demo Link](https://mcervantes71.github.io/Restaurant_Page/index.html)
+[Live Demo Link](https://rawcdn.githack.com/mcervantes71/Restaurant_Page/feature/build_website/dist/index.html)
 
 ## :computer: Getting Started
 
