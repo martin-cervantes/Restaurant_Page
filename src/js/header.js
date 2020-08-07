@@ -23,14 +23,14 @@ const header = () => {
   const div4 = document.createElement('div');
   div4.classList.add('links');
 
-  const link1 = document.createElement('a')
+  const link1 = document.createElement('a');
   link1.setAttribute('href', '#');
   link1.classList.add('nav_link');
   link1.innerText = 'Menu';
   link1.id = 'menu';
   div4.appendChild(link1);
 
-  const link2 = document.createElement('a')
+  const link2 = document.createElement('a');
   link2.setAttribute('href', '#');
   link2.classList.add('nav_link');
   link2.innerText = 'Contact us';
@@ -45,6 +45,6 @@ const header = () => {
   nav.appendChild(div2);
 
   return nav;
-}
+};
 
 export default header;

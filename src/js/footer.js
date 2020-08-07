@@ -68,6 +68,6 @@ const footer = () => {
   footer.appendChild(div3);
 
   return footer;
-}
+};
 
 export default footer;

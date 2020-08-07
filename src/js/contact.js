@@ -63,6 +63,6 @@ const contact = () => {
   contact.appendChild(form);
 
   return contact;
-}
+};
 
 export default contact;
