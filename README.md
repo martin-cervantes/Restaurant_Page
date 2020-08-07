@@ -13,7 +13,7 @@ This project is to continue practicing DOM manipulation by using only JavaScript
 
 ## :mag: Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/mcervantes71/Restaurant_Page/feature/build_website/dist/index.html)
+[Live Demo Link](https://mcervantes71.github.io/Restaurant_Page/dist/)
 
 ## :computer: Getting Started
 
