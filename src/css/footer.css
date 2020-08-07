@@ -1,0 +1,67 @@
+.footer {
+  align-items: center;
+  background-color: var(--dark_sienna);
+  border-top: 0.2rem solid var(--smoky_black);
+  display: flex;
+  justify-content: space-between;
+}
+
+#brand2 {
+  display: block;
+  height: 3rem;
+}
+
+.credits {
+  display: flex;
+}
+
+.credits_link {
+  color: var(--purple);
+  font-size: 0.8rem;
+  font-weight: 400;
+  padding: 0 0.3rem;
+  text-decoration: none;
+}
+
+.credits_link:hover {
+  color: #fff;
+}
+
+.credits_text {
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 400;
+  padding: 0 0.3rem;
+}
+
+.copyleft {
+  display: inline-block;
+  transform: rotate(180deg);
+}
+
+.contact {
+  align-items: center;
+  display: flex;
+}
+
+.text {
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 400;
+  padding: 0 0.3rem;
+}
+
+.contact_icons {
+  background-color: var(--purple);
+  border-radius: 50%;
+  color: var(--dark_sienna);
+  height: 1rem;
+  margin: 0 0.3rem;
+  padding: 0.3rem;
+  text-align: center;
+  width: 1rem;
+}
+
+.contact_icons:hover {
+  background-color: #fff;
+}
