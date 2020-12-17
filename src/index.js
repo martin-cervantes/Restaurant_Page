@@ -4,10 +4,18 @@ import './css/header.css';
 import './css/content.css';
 import './css/footer.css';
 
+import logo from './img/logo.png';
+
 import header from './js/header';
 import menu from './js/menu';
 import contact from './js/contact';
 import footer from './js/footer';
+
+const icon = document.querySelector("link[rel*='icon']") || document.createElement('link');
+icon.type = 'image/x-icon';
+icon.rel = 'shortcut icon';
+icon.href = logo;
+document.getElementsByTagName('head')[0].appendChild(icon);
 
 const content = document.getElementById('content');
 
